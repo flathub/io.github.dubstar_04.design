@@ -44,8 +44,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/dubstar-04/Design.git",
-                    "tag": "v43-alpha1",
-                    "commit": "d7cd1e42b6782904e852ab867f77ae4d6760c941"
+                    "tag": "v43-alpha2",
+                    "commit": "81321b932bcfb6100ab22126671bbf74f9fea98a"
                 }
             ]
         }
