@@ -1,11 +1,10 @@
 {
     "app-id" : "io.github.dubstar_04.design",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "44",
+    "runtime-version" : "46",
     "sdk" : "org.gnome.Sdk",
     "command" : "io.github.dubstar_04.design",
     "finish-args" : [
-        "--filesystem=home",
         "--share=ipc",
         "--socket=fallback-x11",
         "--device=dri",
@@ -32,7 +31,7 @@
         {
           "type": "git",
           "url": "https://gitlab.gnome.org/jwestman/blueprint-compiler.git",
-          "tag": "v0.6.0"
+          "tag": "v0.10.0"
         }
       ]
     	},
@@ -44,8 +43,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/dubstar-04/Design.git",
-                    "tag": "v45-alpha1",
-                    "commit": "cced24980d001a5f62b4ca1fe400ddf9789e71ba"
+                    "tag": "v46-alpha1",
+                    "commit": "662a8dd9085395e0d0796c0c82205b91ab5b45bc"
                 }
             ]
         }
