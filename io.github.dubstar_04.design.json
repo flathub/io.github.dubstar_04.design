@@ -1,7 +1,7 @@
 {
     "app-id": "io.github.dubstar_04.design",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "49",
+    "runtime-version": "50",
     "sdk": "org.gnome.Sdk",
     "command": "io.github.dubstar_04.design",
     "finish-args": [
@@ -30,8 +30,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/dubstar-04/Design.git",
-                    "tag": "v49-alpha1",
-                    "commit": "9f091404eafe5906cce28dde27fbb80cf568a173"
+                    "tag": "v50-alpha1",
+                    "commit": "f436ce38a6e5797dfa6cfc70d7ca787ee36cddec"
                 }
             ]
         }
